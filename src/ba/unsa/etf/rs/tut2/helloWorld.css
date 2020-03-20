@@ -1,0 +1,13 @@
+#panel{
+    -fx-background-color:lightskyblue;
+}
+.button{
+    -fx-color:red;
+    -fx-padding:25px;
+    -fx-border-radius:50%;
+}
+
+#helloWorld {
+    -fx-font-size:15px;
+    -fx-text-fill:green;
+}
